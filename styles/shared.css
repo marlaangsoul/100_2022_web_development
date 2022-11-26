@@ -1,0 +1,37 @@
+h1{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(20, 97, 50)"
+}
+
+p{
+    font-family: 'Fira Sans', sans-serif;
+    color: rgb(55, 13, 13)
+}
+a{
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+  /* 홍매색   */
+}
+/* 규칙. 마우스가 a에 올라갔을때 나오는 규칙  */
+a:hover{ 
+    text-decoration : underline;
+}
+#today-challenge{
+    color: rgb(160, 92, 12);
+    font-weight: bold;
+    font-size: 30px;
+}
+/* 텍스트 어라이언은 텍스트의 위치를 만지는 속성 */
+img{
+    width: 300px;
+    height: 230px;
+    border-radius: 100px;
+    
+
+}
+/* 이미지의 에서 바디가 부모요소기 떄문에 body로 텍스트 에어리어 값을 잡아주면 그 아래 자식 요소들이 모두 적용 받는다.  */
+body{
+    text-align: center;
+    background-color: wheat;
+    margin: 50px;
+}

@@ -1,0 +1,13 @@
+#today-challenge{
+    color: rgb(160, 92, 12);
+    font-weight: bold;
+    font-size: 30px;
+}
+/* 텍스트 어라이언은 텍스트의 위치를 만지는 속성 */
+img{
+    width: 300px;
+    height: 230px;
+    border-radius: 100px;
+    
+
+}
