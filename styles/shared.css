@@ -5,7 +5,8 @@ h1{
 
 p{
     font-family: 'Fira Sans', sans-serif;
-    color: rgb(55, 13, 13)
+    color: rgb(55, 13, 13);
+    margin-bottom: 36px;
 }
 a{
   color: rgb(167, 1, 78);
@@ -34,4 +35,5 @@ body{
     text-align: center;
     background-color: wheat;
     margin: 50px;
+    font-family: 'Oswald', sans-serif;
 }
